@@ -1,0 +1,33 @@
+{
+  "name": "space-travel-theme",
+  "displayName": "Space Travel Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "gabigool-dev",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbatistaa/Themes-for-VSCode"
+  },
+  "keywords": [
+    "purple",
+    "theme",
+    "roxo",
+    "viagem-espacial",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Travel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Travel Theme-color-theme.json"
+      }
+    ]
+  }
+}
